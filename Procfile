@@ -1,0 +1,1 @@
+web: gunicorn hector.wsgi --log-file -
